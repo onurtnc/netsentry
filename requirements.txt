@@ -1,0 +1,3 @@
+# NetSentry sadece Python standart kutuphanesini kullanir (Python 3.8+).
+# Harici bagimlilik YOKTUR - scapy, dpkt, pyshark vb. gerekmez.
+pytest>=7.0     # opsiyonel, testler icin
